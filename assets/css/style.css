@@ -1,6 +1,6 @@
 /* topnav of contacts and index */
 #topnav {
-  background-color: rgb(56, 156, 206);
+  background-color: #018a17;
   color: #fff;
   height: 32px;
   padding-top: 5px;
@@ -40,5 +40,5 @@
   vertical-align: bottom;
   font-family: "K2D", sans-serif;
   font-size: 75px;
-  color: rgb(250, 40, 40);
+  color: rgb(96, 40, 250);
 }
